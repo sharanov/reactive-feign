@@ -1,0 +1,5 @@
+spring:
+  application.name: reactive-feign
+
+url:
+  users: http://localhost:8186
